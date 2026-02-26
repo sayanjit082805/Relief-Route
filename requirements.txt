@@ -1,0 +1,10 @@
+pathway
+google-genai
+streamlit
+osmnx
+networkx
+requests
+python-dotenv
+pandas
+pydeck
+plotly
